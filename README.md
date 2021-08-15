@@ -13,3 +13,6 @@
 - Python
 - Django
 
+## Finest Projects
+
+[🎴 PokemonCardGenerator](https://github.com/S-Most/pokemontest)
