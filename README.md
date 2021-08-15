@@ -1,5 +1,5 @@
 # About me
 
-🍺 Bartender @Place
-💻 Community Coach @Bit-Academy
+🍺 Bartender @Place <br>
+💻 Community Coach @Bit-Academy<br>
 🧗‍♂️ Like to go climbing
