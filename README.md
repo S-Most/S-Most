@@ -1,7 +1,5 @@
-# Test
+# About me
 
-- test1
-- test1
-- test1
-- test1
-- test1
+🍺 Bartender @Place
+💻 Community Coach @Bit-Academy
+🧗‍♂️ Like to go climbing
