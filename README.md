@@ -5,15 +5,17 @@
 🧗‍♂️ Like to go climbing
 
 ## Specialties
-- HTML
-- CSS
 - Javascript
-- SCSS
-- PHP
 - Python
 - Django
+- React
+- Svelte
+- HTML
+- CSS
+- SCSS
+- PHP
 
-## Finest Projects
+## Finest Projects (not up to date)
 
 [🎴 PokemonCardGenerator](https://github.com/S-Most/pokemontest)<br>
 
