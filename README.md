@@ -1,6 +1,6 @@
 # About me
 
-🍺 Head of Education Development  @Bit-Academy <br>
+👨‍🏫 Head of Education Development  @Bit-Academy <br>
 💻 Community Coach @Bit-Academy <br>
 🧗‍♂️ Like to go climbing
 
