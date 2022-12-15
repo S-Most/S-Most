@@ -5,10 +5,10 @@
 🧗‍♂️ Like to go climbing
 
 ## Specialties
-- Javascript
+- JavaScript
 - Python
 - React
-- Svelte
+- Svelte(kit)
 - HTML
-- CSS
+- (S)CSS
 - PHP
